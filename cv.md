@@ -33,8 +33,8 @@ My wish is to work at some big IT company and maybe after some years of experien
 ## Code examples
 
 - [RECO project] (https://github.com/ppmarkek/RECO)
-- [Calculator names Potato] (https://github.com/TheMozii/potato)
-- []
+- [Calculator named Potato] (https://github.com/TheMozii/potato)
+- [Closes] (https://github.com/TheMozii/Closes)
 
 6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
 freelance projects - wherever they had the opportunity to demonstrate skills they have.
