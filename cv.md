@@ -36,8 +36,9 @@ My wish is to work at some big IT company and maybe after some years of experien
 - [Calculator named Potato] (https://github.com/TheMozii/potato)
 - [Closes] (https://github.com/TheMozii/Closes)
 
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
+## Experience 
+
+I finished frontend courses, have some small projects after this course. Have experience in C++ language with some projects the latest one is Database.
+
 7. Education (including courses, seminars, lectures, online learning)
 8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
