@@ -30,7 +30,12 @@ My wish is to work at some big IT company and maybe after some years of experien
 - Redux.js
 - Git
 
-5. Code examples (LATEST)
+## Code examples
+
+- [RECO project] (https://github.com/ppmarkek/RECO)
+- [Calculator names Potato] (https://github.com/TheMozii/potato)
+- []
+
 6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
 freelance projects - wherever they had the opportunity to demonstrate skills they have.
 Also it would be awesome if you add links to source code)
