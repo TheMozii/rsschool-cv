@@ -9,9 +9,13 @@
 **Discord** [themozii] (themozii)
 **Telegram** [https://t.me/wwruvimww] (https://t.me/wwruvimww)
 
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
+## Summary
+
+I'am student at TSI Institute in Latvia for Computer Science degree. I have started to study parogramming about 2.5 years ago, during this time I've been learning JavaScript, CSS, HTML, React, TypeScript, C++. I finished cources "Modern JavaScript - from Zero to Junior Specialist", "Web Development Basics. HTML and CSS" at Udemy. At institute we learning C++ language. Also I've certificate at Cisco Networking Academy for Introduction to Cybersecurity.
+I have vocational secondary education at Mechatronics degree and professional musitian degree for playing on saxophone.
+I have few hobbies: gym, listening music and collecting LEGOS.
+My wish is to work at some big IT company and maybe after some years of experience I wold open my own company.
+
 4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
 5. Code examples (LATEST)
 6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
