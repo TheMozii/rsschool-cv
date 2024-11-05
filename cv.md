@@ -16,7 +16,20 @@ I have vocational secondary education at Mechatronics degree and professional mu
 I have few hobbies: gym, listening music and collecting LEGOS.
 My wish is to work at some big IT company and maybe after some years of experience I wold open my own company.
 
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
+## Skills
+
+- JavaScript
+- Unreal Engene 5
+- Blueprint
+- CSS
+- HTML
+- React.js
+- TypeScript
+- C++
+- Figma
+- Redux.js
+- Git
+
 5. Code examples (LATEST)
 6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
 freelance projects - wherever they had the opportunity to demonstrate skills they have.
