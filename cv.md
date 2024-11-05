@@ -40,5 +40,14 @@ My wish is to work at some big IT company and maybe after some years of experien
 
 I finished frontend courses, have some small projects after this course. Have experience in C++ language with some projects the latest one is Database.
 
-7. Education (including courses, seminars, lectures, online learning)
+## Education
+
+Liepaja 12 VSK, Mandatory educational program (2010-2019)
+LVT - Vocational secondary education in mechatronic degree (2019-2023)
+Liepaja music, art and design secondary school (2012-2019)
+Udemi Modern JavaScript - from Zero to Junior Specialist certificate (2024)
+Cisco Networking Academy Introduction to Cybersecurity certificate (2023)
+Cisco Networking Academy Networking Academy Learn-A-Thon certificate (2023)
+iTEP Academic-Plus Exam Upper Intermediate Badge (2024)
+
 8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
