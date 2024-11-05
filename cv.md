@@ -50,4 +50,6 @@ Cisco Networking Academy Introduction to Cybersecurity certificate (2023)
 Cisco Networking Academy Networking Academy Learn-A-Thon certificate (2023)
 iTEP Academic-Plus Exam Upper Intermediate Badge (2024)
 
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+## English
+
+I have B2 category according to Itep assessment. I have english practice every day because I'm studying at the english grope at my institute.
