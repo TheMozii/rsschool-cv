@@ -1,1 +1,1 @@
-[https://themozii.github.io/rsschool-cv/cv] (https://themozii.github.io/rsschool-cv/cv)
+# rsschool-cv
